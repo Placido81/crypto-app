@@ -1,1 +1,1 @@
-# password-generator
+# Crypto App
