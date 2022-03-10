@@ -1,1 +1,1 @@
-# Crypto App
+# Password Generator
